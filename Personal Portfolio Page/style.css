@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 253, 253);
+}
+
+.box {
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+    /* border-style: solid; */
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+h1 {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(200, 207, 213);
+    /* text-align: center; */
+}
+
+h2 {
+    margin-left: 7px;
+    margin-top: 30px;
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+h6 {
+    margin-left: 25px;
+    background-color: aliceblue;
+}
+
+.box1 {
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+    /* border-style: solid; */
+    width: 15vw;
+    height: 100vh;
+    /* display: flex; */
+}
+
+.prof a img {
+    margin-top: 50px;
+    margin-left: 30px;
+    padding: 15;
+    width: 120px;
+    height: 120px;
+    border: 10px;
+    border-radius: 50%;
+}
+
+ul {
+    list-style: none;
+    background-color: aliceblue;
+}
+
+.cont {
+    background-color: aliceblue;
+    margin-left: 10px;
+    padding: 20px;
+}
+
+.icon {
+    margin-left: 10px;
+
+    display: flex;
+    background-color: aliceblue;
+}
+
+.icon li a img {
+    width: 30px;
+    height: 30px;
+    border: 1;
+    padding: 5px;
+    /* border: 1px solid; */
+    border-radius: 50%;
+}
+
+.box2 {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(200, 207, 213);
+    /* border-style: solid; */
+    width: 85vw;
+    height: 100%;
+    position: sticky;
+}
+
+.maincontent {
+    margin-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(200, 207, 213);
+    display: flex;
+    text-align: center;
+    /* border: 1px solid; */
+
+}
+
+.spanlist {
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid;
+    text-align: center;
+}
+
+
+.spanlist1 {
+    margin-bottom: 5px;
+    padding-left: 20px;
+    /* border: 1px solid; */
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    align-items: center;
+}
+
+#rect {
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 82vw;
+    height: 83vh;
+    
+
+}
+
+.inrect{
+    background-color: rgb(200, 207, 213);
+    /* border-style: solid; */
+    display: flex; 
+}
+
+.smallrect{
+    margin: 5px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    /* border-style: dotted; */
+    width: 400px;
+    height: 200px;
+    
+}
+
+.smallrect img {
+    width: 100px;
+    height: 70px;
+    
+}
